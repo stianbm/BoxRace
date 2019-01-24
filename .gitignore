@@ -1,0 +1,9 @@
+.vs/
+Assembly-CSharp.csproj
+Builds/
+Library/
+Logs/
+Packages/
+ProjectSettings/
+Temp/
+obj/
